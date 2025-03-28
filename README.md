@@ -10,8 +10,8 @@ Padahal gua udah sayang banget, jarang2 gua sayang ke cewe sampe setolol ini. Da
 ```php
 $ pkg update && pkg upgrade -y
 $ pkg install git python python-pip
-$ git clone https://github.com/Yutixcode/Kangspam
-$ cd Kangspam
+$ git clone https://github.com/Randygans11/spam
+$ cd spam
 $ pip install -r requirements.txt
 $ python run.py
 ```
