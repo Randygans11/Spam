@@ -1,5 +1,4 @@
-# KangSpam
-![KANGSPAM](./Lib/thumb.png)
+#Spam
 
 Ini adalah tool gak guna bikinan gua, fungsinya buat spam dia yg udah ninggalin pas lagi sayang2nya.
 Padahal gua udah sayang banget, jarang2 gua sayang ke cewe sampe setolol ini. Dan lu juga jangan make doang dek! minimal kasih star lah.
